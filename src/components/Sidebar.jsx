@@ -23,7 +23,7 @@ function Sidebar() {
   return (
     <div className="w-64 bg-white h-screen shadow-lg">
       <div className="p-4">
-        <h2 className="text-2xl font-bold text-indigo-600">Mini Loan</h2>
+        <h2 className="text-2xl font-bold text-indigo-600">LoanBerry</h2>
       </div>
       <nav className="mt-8">
         {menuItems.map((item) => {
